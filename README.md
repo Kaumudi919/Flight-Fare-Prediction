@@ -19,6 +19,7 @@ Almost all the regression machine learning algorithm we have tried on the same d
 5.	XGBoost Regressor<br>
 6.	Gradient boosting <br>
 
- The ML solution using Random Forest Regressor for flight fare prediction has shown promising results with a maximum R2 score of 89. This indicates that the model has a high level of accuracy in predicting flight fares.
+The ML solution using XGBoost Regressor for flight fare prediction has shown promising results with a maximum R2 score of 0.81 and applying hyperparameter tuning R2 score is 0.839<br>
+So model accuracy is 83%. This indicates that the model has a high level of accuracy in predicting flight fares.
 
 
